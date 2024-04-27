@@ -1,7 +1,7 @@
-public class JenkinsLab{
+public class hello{
 
-    public static void main(Strings[] args){
+    public static void main(String[] args){
 
-        System.out.println(x: "Author: Vaishnavi Uttarkar - GITHUB Jenkins Build Demo ");
+        System.out.println("Author: Vaishnavi Uttarkar - Pushing docker images through jenkins ");
     }
 }
